@@ -3,7 +3,7 @@ Final Project Pengantar Teknik Komputer
 
 Change logs :
 v1.0 :	- define fungsi dasar
-		- switch untuk setiap fungsi
+	- switch untuk setiap fungsi
 v2.0 :	- membuat code untuk setiap fungsi
 		- masukkan konsep user friendly
 		- tambah data selain nama dan nomor(address)
